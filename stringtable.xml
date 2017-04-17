@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Dragon_Ridge">
+
+	<Key ID="STR_TB_missionTitle_TB_Dragon_Ridge">
+		<Original>Dragon Ridge</Original>
+		<English>Dragon Ridge</English>
+		<German>Dragon Ridge</German>
+		<Italian>Dragon Ridge</Italian>
+		<Spanish>Dragon Ridge</Spanish>
+		<French>Dragon Ridge</French>
+		<Czech>Dragon Ridge</Czech>
+		<Russian>Dragon Ridge</Russian>
+		<Polish>Dragon Ridge</Polish>
+		<Hungarian>Dragon Ridge</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_Dragon_Ridge">
+		<Original>TacBF A&amp;S[T-10]: Dragon Ridge</Original>
+		<English>TacBF A&amp;S[T-10]: Dragon Ridge</English>
+		<German>TacBF A&amp;S[T-10]: Dragon Ridge</German>
+		<Italian>TacBF A&amp;S[T-10]: Dragon Ridge</Italian>
+		<Spanish>TacBF A&amp;S[T-10]: Dragon Ridge</Spanish>
+		<French>TacBF A&amp;S[T-10]: Dragon Ridge</French>
+		<Czech>TacBF A&amp;S[T-10]: Dragon Ridge</Czech>
+		<Russian>TacBF A&amp;S[T-10]: Dragon Ridge</Russian>
+		<Polish>TacBF A&amp;S[T-10]: Dragon Ridge</Polish>
+		<Hungarian>TacBF A&amp;S[T-10]: Dragon Ridge</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
